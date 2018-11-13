@@ -37,3 +37,6 @@ Sorry for the English
 
 ### 5. A Danger Zone<Br>
 ![result_non-jurisdiction](https://user-images.githubusercontent.com/25999141/48416603-03d0ed00-e794-11e8-8e1c-aa8a9a671a65.PNG)
+<Br>
+ 
+According to result, You can see the lack of safety zone. But those are unnecessary places such as mountain, river, etc.
