@@ -21,3 +21,19 @@ The goal is to know the crime vulnerable area in the Gwangjin-gu. Furthermore, W
 <hr>
 Sorry for the English
 
+## Result
+
+1. CCTV Distribution
+![result_cctv](https://user-images.githubusercontent.com/25999141/48416449-96bd5780-e793-11e8-88e7-6e29b069c9c1.PNG)
+
+2. Police Office Distribution
+![result_policeoffice](https://user-images.githubusercontent.com/25999141/48416490-b2286280-e793-11e8-887a-886a8c0f7044.PNG)
+
+3. Police Office Icon Customize
+![result_policeoffice_customize_icon](https://user-images.githubusercontent.com/25999141/48416528-ce2c0400-e793-11e8-96f5-af531dbc28f5.PNG)
+
+4. Police Office Jurisdiction
+![result_policeoffice_jurisdiction](https://user-images.githubusercontent.com/25999141/48416572-eef45980-e793-11e8-88d2-8ba2f78bf266.PNG)
+
+5. A Danger Zone
+![result_non-jurisdiction](https://user-images.githubusercontent.com/25999141/48416603-03d0ed00-e794-11e8-8e1c-aa8a9a671a65.PNG)
