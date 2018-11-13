@@ -18,8 +18,6 @@ The goal is to know the crime vulnerable area in the Gwangjin-gu. Furthermore, W
 3. Display the police-office-1km-buffered-area using Folium.
 4. Union upper area using 'Union', GeoPandas function, and analysis difference area with Gwangjin-gu area using 'Difference', GeoPandas Function.
 5. This area also display with Folium.
-<hr>
-Sorry for the English
 
 ## Result
 
@@ -41,3 +39,6 @@ Sorry for the English
 <Br>
  
 According to result, You can see the lack of safety zone. But those are unnecessary places such as mountain, river, etc.
+
+<hr>
+Sorry for the English
