@@ -24,19 +24,20 @@ Sorry for the English
 ## Result
 
 ### 1. CCTV Distribution<Br>
-![result_cctv](https://user-images.githubusercontent.com/25999141/48416449-96bd5780-e793-11e8-88e7-6e29b069c9c1.PNG)
+![result_cctv](https://user-images.githubusercontent.com/25999141/48417069-329b9300-e795-11e8-93e9-1bb71ae1832c.PNG)
 
 ### 2. Police Office Distribution<Br>
-![result_policeoffice](https://user-images.githubusercontent.com/25999141/48416490-b2286280-e793-11e8-887a-886a8c0f7044.PNG)
+![result_policeoffice](https://user-images.githubusercontent.com/25999141/48417074-34fded00-e795-11e8-916a-600bfa56a451.PNG)
 
-### 3. Police Office Icon Customize<Br>
-![result_policeoffice_customize_icon](https://user-images.githubusercontent.com/25999141/48416528-ce2c0400-e793-11e8-96f5-af531dbc28f5.PNG)
-
-### 4. Police Office Jurisdiction<Br>
-![result_policeoffice_jurisdiction](https://user-images.githubusercontent.com/25999141/48416572-eef45980-e793-11e8-88d2-8ba2f78bf266.PNG)
+### 3. Police Office Jurisdiction<Br>
+![result_policeoffice_jurisdiction](https://user-images.githubusercontent.com/25999141/48417083-39c2a100-e795-11e8-9e16-fa5183f31a71.PNG)
+ 
+### 4. Police Office Icon Customize<Br>
+![result_policeoffice_customize_icon](https://user-images.githubusercontent.com/25999141/48417085-3af3ce00-e795-11e8-9e60-81cb25e5a5f7.PNG)
 
 ### 5. A Danger Zone<Br>
-![result_non-jurisdiction](https://user-images.githubusercontent.com/25999141/48416603-03d0ed00-e794-11e8-8e1c-aa8a9a671a65.PNG)
+![result_non-jurisdiction](https://user-images.githubusercontent.com/25999141/48417093-3e875500-e795-11e8-8372-53e5797af397.PNG)
+
 <Br>
  
 According to result, You can see the lack of safety zone. But those are unnecessary places such as mountain, river, etc.
